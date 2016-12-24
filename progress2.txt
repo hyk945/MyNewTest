@@ -1,0 +1,38 @@
+348 2016.10.30 基础篇8  - framework了解                  22个
+
+利用Intent传值上 39      10.31                           16个
+                                                          
+		 										Activity任务详解 53       11.1			         12个
+
+
+72                         11.3                          20个
+83                         11.4                          12个
+
+93                         11.5                          11个   
+
+107                        11.6                          15个 
+114                        11.7                          7个
+127                        11.8                           13个
+137                        11.11.               10
+139                        11.15                           2
+150                        11.16                          11个
+156                        11.17                          6
+163+2                       11.18                          9
+15                          11.19                          13 
+21                          11.20                          6
+33                          11.21                         12    
+39  
+
+53  (53.5:48)                        11.21                          20
+
+
+《Tablayout(TabWidget TabHost)>
+<ImageButton > <WebView>
+Preference设置  
+文件存储
+(网络存储 )Httpclient、TCP/IP、Socket
+ 
+adb shell--> cd /data/data/packagename-->ls--->cd databases-->ls -->sqlite 3 DBname--->
+help--->.table-->.schema name
+948978
+sqlite studio
